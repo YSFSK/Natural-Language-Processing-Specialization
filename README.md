@@ -90,6 +90,3 @@ This is the fourth course in the Natural Language Processing Specialization.
 
 - Build a chatbot using a reformer model
 
-# Specialization Completion Certificate
-
-![Certificate](https://ibb.co/KWSMnY2)
